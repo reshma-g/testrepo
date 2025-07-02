@@ -1,7 +1,7 @@
 # Overview
 
 This is a simple Python API boilderplate
-using [Flask](http://flask.pocoo.org/) and [Flask-RESTPlus](https://flask-restplus.readthedocs.io/en/stable/).
+using [Flask](http://flask.pocoo.org/) and [Flask-RESTPlus](https://flask-restplus.readthedocs.io/en/stable/)
 It uses [Pyenv](https://github.com/pyenv/pyenv) and [Pipenv](https://pipenv.readthedocs.io/en/latest/)
 for runtime and package management.
 It also uses [pytest](https://docs.pytest.org/en/latest/) and [pytest-flask](https://pytest-flask.readthedocs.io/en/latest/)
